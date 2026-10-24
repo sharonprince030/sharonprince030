@@ -16,7 +16,7 @@
 
 ---
 
-## 🙋‍♀️ Who I Am
+##  Who I Am
 
 I'm a BCA Honours student at **Rajagiri College of Management & Applied Sciences**. I'm drawn to the defensive side of technology: understanding how systems get attacked so I can help protect them. I also enjoy exploring how data and AI can solve real problems.
 
