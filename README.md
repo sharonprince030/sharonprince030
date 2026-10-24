@@ -20,27 +20,27 @@
 
 I'm a BCA Honours student at **Rajagiri College of Management & Applied Sciences**. I'm drawn to the defensive side of technology: understanding how systems get attacked so I can help protect them. I also enjoy exploring how data and AI can solve real problems.
 
-## 🎯 Current Focus
+##  Current Focus
 
 | Area | What I'm doing |
 |------|----------------|
-| 🔐 **Cybersecurity** | Studying ethical hacking and vulnerability assessment in safe, authorized lab setups |
-| 🌐 **Networking** | Learning protocols, packet analysis, and how common network attacks work |
-| 🕸️ **Web Security** | Working through the OWASP Top 10 and secure coding habits |
-| 🐧 **Linux** | Getting comfortable with the command line and everyday security tools |
-| 🤖 **AI / ML** | Practicing data analysis and predictive modelling in Python |
+|  **Cybersecurity** | Studying ethical hacking and vulnerability assessment in safe, authorized lab setups |
+|  **Networking** | Learning protocols, packet analysis, and how common network attacks work |
+|  **Web Security** | Working through the OWASP Top 10 and secure coding habits |
+|  **Linux** | Getting comfortable with the command line and everyday security tools |
+|  **AI / ML** | Practicing data analysis and predictive modelling in Python |
 
-## 🏢 Experience & Learning
+##  Experience & Learning
 
 - Completed the **NeST Digital Academy** industry immersion program, with hands-on exposure to AI/ML and Data Science.
 
-## 🎮 Hobbies & Interests
+##  Hobbies & Interests
 
-- 🔭 Exploring new technologies and trying out emerging tools as soon as I can
-- 🧪 Tinkering with Linux setups and security tools in lab environments
-- 📚 Reading about cybersecurity, AI, and how the tech world is evolving
+-  Exploring new technologies and trying out emerging tools as soon as I can
+-  Tinkering with Linux setups and security tools in lab environments
+-  Reading about cybersecurity, AI, and how the tech world is evolving
 
-## 🧰 Toolbox
+##  Toolbox
 
 **Languages**
 
@@ -67,11 +67,11 @@ I'm a BCA Honours student at **Rajagiri College of Management & Applied Sciences
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonprince030&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </p>
 
-## 🚀 Where I'm Headed
+##  Where I'm Headed
 
 I want to build secure, reliable technology and grow into a role where I can find weaknesses before attackers do.
 
-## 📬 Let's Connect
+##  Let's Connect
 
 I'm always open to learning from others and collaborating on projects. Reach out on [LinkedIn](https://www.linkedin.com/in/sharon-prince-52aa4a318) or by [email](mailto:sharonprince030@gmail.com).
 
